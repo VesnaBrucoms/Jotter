@@ -1,0 +1,3 @@
+# Jotter
+
+Note taking application.
